@@ -1,6 +1,5 @@
 <h1 align="center"> Desafio ONE: Conversor de Moeda </h1>
-
-![Grafico com o valor do real em relacao ao dolar](..%2F..%2F..%2F..%2F..%2FUsers%2FGabriel%20Caio%2FDownloads%2FconversorMoeda.jpeg)
+![Grafico com o valor do real em relacao ao dolar](https://github.com/user-attachments/assets/30cb5a66-b5d1-403f-9fc8-b335232458c9)
 
 <p> Conversor de moedas que ofereça interação textual (via console) 
 com os usuários, proporcionando no mínimo 6 opções distintas de conversão 
